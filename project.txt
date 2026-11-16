@@ -5,3 +5,5 @@ Project Features:
 2. Employee Login
 3. Employee Details
 4. Employee Management
+5. Employee Salary Management
+6. Employee Attendance
