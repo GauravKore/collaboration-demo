@@ -1,0 +1,7 @@
+Employee Management System
+
+Project Features:
+1. Employee Registration
+2. Employee Login
+3. Employee Details
+4. Employee Management
